@@ -1,1 +1,1 @@
-# odin-recipes
+A recipe site I created while doing The Odin Project.
